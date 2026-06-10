@@ -1,16 +1,20 @@
-## Hi there 👋
+# István András Dézsi
 
-<!--
-**istvandezsi/istvandezsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer with 16+ years of experience in enterprise software, Java-based systems, application platforms, and production environments.
 
-Here are some ideas to get you started:
+My strongest professional background is in Java and enterprise application development, with experience working on complex systems across application, database, deployment, and support layers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding toward cloud and platform engineering, with a focus on Kubernetes, Terraform, AWS, CI/CD, observability, and infrastructure automation.
+
+## Current focus
+
+* Java and enterprise software systems
+* Cloud and platform engineering
+* Kubernetes, Terraform, and AWS
+* CI/CD and infrastructure automation
+* Observability and reliable production systems
+* AI/ML platform and MLOps infrastructure
+
+## Direction
+
+Interested in roles that combine software engineering depth with infrastructure and platform work: senior software engineering, cloud platform engineering, DevOps, SRE, infrastructure automation, and AI/ML platform infrastructure.
