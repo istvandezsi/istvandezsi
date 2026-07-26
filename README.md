@@ -1,20 +1,24 @@
 # István András Dézsi
 
-Senior software engineer with 16+ years of experience in enterprise software, Java-based systems, application platforms, and production environments.
+Senior Java / Backend Engineer with 18 years of experience building, maintaining, and operating enterprise software systems.
 
-My strongest professional background is in Java and enterprise application development, with experience working on complex systems across application, database, deployment, and support layers.
+My background combines Java backend development with Unix/Linux systems administration, production support, integrations, and modernization of long-lived applications. I focus on reliability, maintainability, and understanding how software behaves in production.
 
-Currently expanding toward cloud and platform engineering, with a focus on Kubernetes, Terraform, AWS, CI/CD, observability, and infrastructure automation.
+## Featured project
 
-## Current focus
+### [Java Cloud Platform Lab](https://github.com/istvandezsi/java-cloud-platform-lab)
 
-* Java and enterprise software systems
+A production-minded reference project demonstrating a Spring Boot and PostgreSQL service across application development, containerization, deployment, infrastructure automation, and observability.
+
+It includes Docker, Kubernetes, Terraform for AWS, GitHub Actions CI, Prometheus and Grafana, integration testing, and documented operational verification.
+
+## Focus
+
+* Java and Spring Boot backend engineering
 * Cloud and platform engineering
-* Kubernetes, Terraform, and AWS
-* CI/CD and infrastructure automation
-* Observability and reliable production systems
-* AI/ML platform and MLOps infrastructure
+* Containers, Kubernetes, Terraform, and AWS
+* CI/CD, observability, and production reliability
 
-## Direction
+## Connect
 
-Interested in roles that combine software engineering depth with infrastructure and platform work: senior software engineering, cloud platform engineering, DevOps, SRE, infrastructure automation, and AI/ML platform infrastructure.
+[LinkedIn](https://www.linkedin.com/in/istvandezsi/)
